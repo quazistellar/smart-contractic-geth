@@ -562,5 +562,9 @@ abi = """
 
 """
 
-contract_address = "0xE5E7f8f474B62B37CA1c8012446d1055E2bE96f1"
+
+#тут адрес смарт-контракта, выше - abi = """
+contract_address = "0xcBD0B93B55952c9f2DFA5f52aCcfA13c0b783DFe"
+
+
 
